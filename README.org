@@ -1,0 +1,8 @@
+#+title: Obesity and age transmission risk factors for SARS-CoV-2 infection among exposed individuals
+#+author: Joan T. Matamalas, PhD; Sarvesh Chelvanambi, PhD; Raony F. França, MD; Arda Halu, PhD; Diego V. Santinelli-Pestana, MD; Elena Aikawa, MD, PhD; Rajeev Malhotra, MD, MS; Masanori Aikawa, MD, PhD
+
+* Introduction
+This repository includes the code and data used to generate the results presented in the manuscript "Obesity and age transmission risk factors for SARS-CoV-2 infection among exposed individuals" by Joan T. Matamalas, et al. The manuscript is currently accepted at PNAS Nexus.
+
+* Data availability
+In compliance with ethical standards and to ensure the confidentiality of electronic health records (EHR), the raw data supporting the conclusions of this article cannot be made publicly available. The data contains sensitive and confidential patient information that is protected under privacy laws and regulations. This study was conducted under IRB protocol number 2023P001104, which is not deemed exempt. However, explicit patient consent is not required as the EHR data is considered secondary analysis. To facilitate transparency and reproducibility, here, we are providing the code used for data analysis and a detailed summary of the data structure. This repository includes comprehensive documentation on the code, along with a conceptual outline of the data structure, minus any confidential or identifiable patient information. We believe that these materials will assist other researchers in understanding our methodologies and in replicating similar studies where feasible.
